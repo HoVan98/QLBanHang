@@ -1,0 +1,51 @@
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.Cache
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe.licenses
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmLogin.resources
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FormBaoCaoHangTieuThu.resources
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmBanHang.resources
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmBaoCaoDoanhThu.resources
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmBaoCaoKhoHang.resources
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmChucVu.resources
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmDanhSachKhachHang.resources
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmDoiMatKhau.resources
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmMain.resources
+F:\Thuc tap nhom\QuanLyCH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmMatHangKinhDoanh.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FormBaoCaoHangTieuThu.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QuanLyHangHoa.GUI.FrmBanHang.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmBaoCaoDoanhThu.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QuanLyHangHoa.GUI.FrmBaoCaoKhoHang.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmChucVu.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmDanhSachKhachHang.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmDoiMatKhau.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmLogin.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmMain.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmMatHangKinhDoanh.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe.licenses
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csprojAssemblyReference.cache
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FormBaoCaoHangTieuThu.resources
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QuanLyHangHoa.GUI.FrmBanHang.resources
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmBaoCaoDoanhThu.resources
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QuanLyHangHoa.GUI.FrmBaoCaoKhoHang.resources
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmChucVu.resources
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmDanhSachKhachHang.resources
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmDoiMatKhau.resources
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmLogin.resources
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmMain.resources
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.GUI.FrmMatHangKinhDoanh.resources
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe.licenses
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+E:\ky 6\thuctapnhom\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
