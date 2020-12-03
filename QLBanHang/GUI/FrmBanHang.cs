@@ -97,6 +97,7 @@ namespace QuanLyHangHoa.GUI
         #region sự kiện phiếu xuất
         private void btnStart_Click(object sender, EventArgs e)
         {
+            btnStart.BackColor = Color.Red;
             index = 0;
             LoadPhieuXuat();
         }
