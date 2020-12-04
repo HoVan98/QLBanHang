@@ -125,7 +125,7 @@ namespace QuanLyHangHoa.GUI
         #region sự kiện thêm sửa xóa phiếu xuất
         private void btnThemPhieuXuat_Click(object sender, EventArgs e)
         {
-           
+           btnThemPhieuXuat.BackColor=Color.Red;
             XUAT xuat = new XUAT();
             xuat.NHANVIENID = (int) cbxNhanVien.SelectedValue;
             xuat.NGAY = dateNgayXuat.DateTime;
