@@ -105,6 +105,7 @@ namespace QuanLyHangHoa.GUI
 
         private void btnLeft_Click(object sender, EventArgs e)
         {
+        	//duy change this
         	btnLeft.BackColor=Color.Red;
             if (index > 0) index--;
             LoadPhieuXuat();
