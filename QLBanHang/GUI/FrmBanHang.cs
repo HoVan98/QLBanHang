@@ -113,6 +113,7 @@ namespace QuanLyHangHoa.GUI
 
         private void btnRight_Click(object sender, EventArgs e)
         {
+        	btnRight.BackColor=Color.Red;
             if (index < db.XUATs.Count() - 1) index++;
             LoadPhieuXuat();
         }
