@@ -121,6 +121,7 @@ namespace QuanLyHangHoa.GUI
 
         private void btnEnd_Click(object sender, EventArgs e)
         {
+        	//duy change this
         	btnEnd.BackColor=Color.Red;
             index = db.XUATs.Count() - 1;
             LoadPhieuXuat();
