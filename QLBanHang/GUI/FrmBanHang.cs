@@ -177,6 +177,7 @@ namespace QuanLyHangHoa.GUI
             {
                 MessageBox.Show("Chưa có phiếu xuất nào được chọn", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            btnSuaPhieuXuat.BackColor=Color.Red;
         }
 
         private void btnLamTrangPhieuXuat_Click(object sender, EventArgs e)
