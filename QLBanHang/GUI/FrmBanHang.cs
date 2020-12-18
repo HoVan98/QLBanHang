@@ -97,24 +97,32 @@ namespace QuanLyHangHoa.GUI
         #region sự kiện phiếu xuất
         private void btnStart_Click(object sender, EventArgs e)
         {
+            //duy change this to make it more beautiful
+            btnStart.BackColor = Color.Red;
             index = 0;
             LoadPhieuXuat();
         }
 
         private void btnLeft_Click(object sender, EventArgs e)
         {
+        	//duy change this
+        	btnLeft.BackColor=Color.Red;
             if (index > 0) index--;
             LoadPhieuXuat();
         }
 
         private void btnRight_Click(object sender, EventArgs e)
         {
+        	//duy change this
+        	btnRight.BackColor=Color.Red;
             if (index < db.XUATs.Count() - 1) index++;
             LoadPhieuXuat();
         }
 
         private void btnEnd_Click(object sender, EventArgs e)
         {
+        	//duy change this
+        	btnEnd.BackColor=Color.Red;
             index = db.XUATs.Count() - 1;
             LoadPhieuXuat();
         }
@@ -123,7 +131,8 @@ namespace QuanLyHangHoa.GUI
         #region sự kiện thêm sửa xóa phiếu xuất
         private void btnThemPhieuXuat_Click(object sender, EventArgs e)
         {
-           
+        	//duy change this
+           btnThemPhieuXuat.BackColor=Color.Red;
             XUAT xuat = new XUAT();
             xuat.NHANVIENID = (int) cbxNhanVien.SelectedValue;
             xuat.NGAY = dateNgayXuat.DateTime;
@@ -168,6 +177,7 @@ namespace QuanLyHangHoa.GUI
             {
                 MessageBox.Show("Chưa có phiếu xuất nào được chọn", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            btnSuaPhieuXuat.BackColor=Color.Red;
         }
 
         private void btnLamTrangPhieuXuat_Click(object sender, EventArgs e)
